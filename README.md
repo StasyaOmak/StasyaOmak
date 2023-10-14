@@ -1,9 +1,8 @@
-Hello everyone! I'm Anastasiya &#128406;
-=====================
+# Hello everyone! I'm Anastasiya &#128406;
 
 ### Welcome to my GitHub repository, where I store my personal and coursework projects &#128105;&#8205;&#128187; 
 
-##### I'm currently going through an iOS bootcamp at [Accenture](https://www.accenture.com/lv-en)
+- I'm currently going through an iOS Bootcamp at [Accenture](https://www.accenture.com/lv-en)
 
 
 
