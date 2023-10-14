@@ -2,7 +2,9 @@
 
 ### Welcome to my GitHub repository, where I store my personal and coursework projects &#128105;&#8205;&#128187; 
 
-- I'm currently going through an iOS Bootcamp at [Accenture](https://www.accenture.com/lv-en)
+                                         On the path to the world of iOS development 
+
+- I'm currently going through an iOS Bootcamp at [Accenture](https://www.accenture.com/lv-en) 
 
 
 
