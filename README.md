@@ -4,14 +4,6 @@
 
                                          On the path to the world of iOS development 
 
-- I'm currently going through an iOS Bootcamp at [Accenture](https://www.accenture.com/lv-en)
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=StasyaOmak&label=Profile%20views&color=0e75b6&style=flat" alt="StasyaOmak" /> </p>
-
-  ![6E2](https://github.com/StasyaOmak/StasyaOmak/assets/127408467/db7375d9-ec87-4d72-8315-a0d91a184192)
-
-
-
 <!--
 **StasyaOmak/StasyaOmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
